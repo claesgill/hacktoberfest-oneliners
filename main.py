@@ -2,7 +2,7 @@
 alphabets = [ chr(ord("a") + i) for i in range(26) ]
 
 # list of the alphabet in reverse
-reversed_alphabets = alphabet[::-1]
+reversed_alphabets = alphabets[::-1]
 
 # list of numbers (1-100)
 numbers = list(range(101))
