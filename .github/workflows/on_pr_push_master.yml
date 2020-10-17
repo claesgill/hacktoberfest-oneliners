@@ -1,10 +1,10 @@
 name: CI/CD
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     types: [ opened, synchronize, reopened, edited, closed, labeled, unlabeled ]
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   test:
