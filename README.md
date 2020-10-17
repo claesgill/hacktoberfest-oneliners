@@ -1,5 +1,5 @@
 <h1 align="center">One Liners</h1>
-<p align="center">Greetings hackers of [Hacktoberfest](https://hacktoberfest.digitalocean.com/)! :computer: :tada:</p>
+<p align="center">Greetings hackers of <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>! :computer: :tada:</p>
 <div align="center"> 
     <a href="https://github.com/claesgill/hacktoberfest-oneliners/actions?query=workflow%3ACI%2FCD+branch%3Amaster">
         <img alt="Build" src="https://github.com/claesgill/hacktoberfest-oneliners/workflows/CI/CD/badge.svg" />
@@ -11,8 +11,6 @@
         <img alt="Updated" src="https://img.shields.io/github/contributors/claesgill/hacktoberfest-oneliners" />
     </a>
 </div>
-
-#
 
 ## Challenge
 I like oneliners, and I've like you to create a PR with your favorite onliner using Python. Or just a line of some sort - it's up to you :shrug: 
