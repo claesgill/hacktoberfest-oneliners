@@ -12,12 +12,24 @@
     </a>
 </div>
 
-## Challenge
+## Contribute
 I like oneliners, and I've like you to create a PR with your favorite onliner using Python. Or just a line of some sort - it's up to you :shrug: 
 
 So far I've only created a list containing the alphabet (a-z). Let's see what we can accomplish to the end of Hacktober! 
 
-### Contribute
+### Getting started
+Follow the steps bellow to get started!
+
+1. Fork this repo by clicking the top right fork button.
+2. Clone the reposetory you just forked.
+3. Create a new branch:
+    1. `git checkout -b my_branch_name`
+4. Make your changes and push your code.
+5. Create a [pull request](https://github.com/claesgill/hacktoberfest-oneliners/pulls) to this reposetorys `main` branch :tada:
+
+Happy coding :keyboard:
+
+### Rules
 See the rules below:
 
 1. Your oneliner can be maximum 200 characters long.
@@ -26,5 +38,3 @@ See the rules below:
 4. Only **1** line of code for each PR.
 5. **No** third-party packages.
 6. After your submit, `main.py` should be able to run.
-
-Happy coding :keyboard:
