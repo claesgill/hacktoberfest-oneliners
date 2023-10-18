@@ -2,7 +2,7 @@
 <p align="center">Greetings hackers of <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>! :computer: :tada:</p>
 <div align="center"> 
     <a href="https://github.com/claesgill/hacktoberfest-oneliners/actions?query=workflow%3ACI%2FCD+branch%3Amain">
-        <img alt="Build" src="https://img.shields.io/github/workflow/status/claesgill/hacktoberfest-oneliners/CI-CD/main" />
+        <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/claesgill/hacktoberfest-oneliners/on_pr_push_master.yml" />
     </a>
     <a href="https://github.com/claesgill/hacktoberfest-oneliners/commits">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/claesgill/hacktoberfest-oneliners?label=updated">
