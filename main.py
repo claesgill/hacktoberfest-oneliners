@@ -4,8 +4,5 @@ sorted_alphabet = sorted(alphabet)
 numbers_alphabet = [*(chr(ord("0") + i) for i in range(10)), *alphabet] # concatenate numbers and alphabets into 1 array (0-9,a-z)
 numbers42_alphabet = [(int(i) * 42) for i in numbers_alphabet[0:9]] + alphabet
 alphabet_capatalized = [*(chr(ord("A") + i) for i in range(26))]
-alphabet_upper = [chr(ord("A") + i) for i in range(26)]
-reversed_alphabet_upper = [chr(ord("Z") - i) for i in range(26)]
-sorted_alphabet_upper = sorted([chr(ord("A") + i) for i in range(26)])
 combined_characters = [chr(ord("a") + i) for i in range(26)] + [chr(ord("A") + i) for i in range(26)] + [chr(ord("0") + i) for i in range(10)] #Returns Capital letters,Small Letters and numbers combined (a-z,A-Z,0,9)
-special_characters = [chr(i) for i in range(32, 127) if not chr(i).isalnum()] # Returns Special Characters [' ', '!', '"', '#', '$', '%', '&', "'", '(', ')' ,......]
+
